@@ -131,6 +131,9 @@ public class LinkedList {
         }
         return s;
     }
+
+    public void remove(Object objectTemp) {
+    }
 }
 
 
